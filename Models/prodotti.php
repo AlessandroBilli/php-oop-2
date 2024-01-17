@@ -24,10 +24,3 @@ $gatto = new Gatti();
 $gatto->cibo = "Scatolette";
 $gatto->giochi = "Topo di peluche";
 $gatto->cucce = "Cuccia Igloo";
-
-
-echo "Informazioni per il cane:\n";
-var_dump($cane);
-
-echo "\nInformazioni per il gatto:\n";
-var_dump($gatto);
