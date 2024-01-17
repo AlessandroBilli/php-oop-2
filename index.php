@@ -38,7 +38,7 @@ require_once __DIR__ . '/Models/prodotti.php';
             <img src="img/Ginger_european_cat.jpg" class="card-img-top" alt="...">
 
             <div class="card-body">
-                <h5 class="card-title">Prodotti Gatti <i class="fa-solid fa-dog"></i></h5>
+                <h5 class="card-title">Prodotti Gatti <i class="fa-solid fa-cat"></i></h5>
                 <p class="card-text">
                 <ul>
                     <li>Cibo: <?php echo $gatto->cibo; ?></li>
